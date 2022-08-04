@@ -1,0 +1,39 @@
+body{
+    margin-left: 139px;
+    margin-right: 139px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    width: 207px;
+    height: 39px;
+    margin-top: 52px;
+    left: 139;
+}
+p{
+    font-size: 18px;
+    font: arial;
+    letter-spacing: 0px;
+    
+}
+.Image-root{
+    top: 626px;
+    left: 139px;
+    width: 444px;
+    height: 233px;
+    opacity: 1;
+}
+.table-text{
+    padding: 0px;
+    width: 200px;
+    border: 0px;
+    border-color: white;
+    padding: 0px;
+}
+.table-p{
+   position:relative;
+   left:400px;
+}
+.table-text1 {
+    border: 1px;
+    padding: 10px;
+}
